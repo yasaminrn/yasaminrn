@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasaminrn
-- 👀 I’m interested in statistics, data science and machine learning.
+- 👀 I’m interested in applying machine learning model to solve engineering problems.
 - 🌱 My projects started from my personal interests and domain expertiese. 
       They range from exploratory data analysis, clustring and recommendation system for fragrances -which is an area I am highly passionate about- 
       and application of natural language processing for sentiment  analysis around popular stocks 
