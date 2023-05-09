@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasaminrn
-- 👀 I’m interested in applying machine learning models to solve engineering problems.
-- 🌱 My projects started from my personal interests and domain expertiese. 
+- 👀 I’m interested in applying machine learning techniques to solve real World problems.
+- 🌱 My projects started from my engineering domain expertiese and personal interest. 
       They range from clustring and recommendation system for fragrances -which is an area I am highly passionate about- 
       and application of natural language processing for sentiment  analysis around popular stocks 
       to applying deep learning  to solve structural engineering problems.
